@@ -1,3 +1,20 @@
+/* 
+Colours:
+  background: #3C3744
+  heading: #3C3744
+  font: #E0E0CE
+  colour 1: #B4ADEA
+  colour 2: #4E8098 
+*/
+
 body {
-  background-color: orange;
+  background-color: #3C3744;
+}
+
+h1 {
+  color: #B07156;
+}
+
+p {
+  color: #E0E0CE;
 }
