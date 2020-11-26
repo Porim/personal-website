@@ -7,6 +7,14 @@ Colours:
   colour 2: #4E8098 
 */
 
+a {
+  color: #E0E0CE;
+}
+
+a:hover {
+  color: #B4ADEA;
+}
+
 body {
   background-color: #3C3744;
 }
