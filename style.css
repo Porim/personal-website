@@ -24,6 +24,15 @@ h1 {
   font-size: 60px;
 }
 
+h2 {
+  color: #B07156;
+  font-size: 45px;
+}
+h3 {
+  color: #B4ADEA;
+  font-size:35px
+}
+
 p {
   color: #E0E0CE;
   font-size: 30px;
